@@ -1,0 +1,1 @@
+exec java -jar ${JAVA_TOOL_OPTIONS} /app/app.jar
